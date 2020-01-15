@@ -1,4 +1,4 @@
-From 7d9e0ace22dbec747b0b4526d67d06570693ecb1 Mon Sep 17 00:00:00 2001
+From 4ab4a3cec945c87459111338d6e9f9148953b9c2 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Thu, 14 Apr 2016 21:38:43 -0400
 Subject: [PATCH 60/85] mei: me: [NOT FOR UPSTREAM] add denverton device ids

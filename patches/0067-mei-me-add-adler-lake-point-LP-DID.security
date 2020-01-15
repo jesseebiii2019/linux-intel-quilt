@@ -1,4 +1,4 @@
-From ad9c58015b6fa76cddd0304bd3ec30a052dc53b5 Mon Sep 17 00:00:00 2001
+From 167b4f4231b11c4f099d621af29c5654dbea9805 Mon Sep 17 00:00:00 2001
 From: Alexander Usyskin <alexander.usyskin@intel.com>
 Date: Thu, 28 Nov 2019 10:11:18 +0200
 Subject: [PATCH 67/85] mei: me: add adler lake point LP DID

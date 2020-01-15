@@ -1,4 +1,4 @@
-From 77a6ba38defd71b2db64d8c37b94969f3c3a3e48 Mon Sep 17 00:00:00 2001
+From 437c4afe06e0a7a5e212103a3ec72ecc9dd94bae Mon Sep 17 00:00:00 2001
 From: Alexander Usyskin <alexander.usyskin@intel.com>
 Date: Thu, 28 Nov 2019 10:09:06 +0200
 Subject: [PATCH 66/85] mei: me: add adler lake point S DID

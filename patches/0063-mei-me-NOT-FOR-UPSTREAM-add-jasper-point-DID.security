@@ -1,4 +1,4 @@
-From a798976da0bb2b1c6f4101a1d3b5638bbcc27753 Mon Sep 17 00:00:00 2001
+From 2f629ad71e4bb8522bc112aa8dae9ae10555ddce Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Wed, 10 Apr 2019 14:16:12 +0300
 Subject: [PATCH 63/85] mei: me: [NOT FOR UPSTREAM] add jasper point DID

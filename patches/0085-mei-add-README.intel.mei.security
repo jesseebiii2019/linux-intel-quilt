@@ -1,4 +1,4 @@
-From 565f17844d2150b5016d34af616fb59a2e06ca0a Mon Sep 17 00:00:00 2001
+From 316a3ba8d5cd02f325400b859fa614665a653fea Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Mon, 12 Mar 2018 21:09:04 +0200
 Subject: [PATCH 85/85] mei: add README.intel.mei
