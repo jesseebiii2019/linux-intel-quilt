@@ -1,6 +1,6 @@
-From c4274c3242e7bb12f4a45daa973b0d56b96d05f1 Mon Sep 17 00:00:00 2001
+From 32fe34f07f50072bb351a26045b9d5b581d97603 Mon Sep 17 00:00:00 2001
 From: sys_oak <sys_oak@intel.com>
-Date: Thu, 16 Jan 2020 20:50:49 -0800
+Date: Thu, 16 Jan 2020 20:57:59 -0800
 Subject: [PATCH] test configs use for clear bare metal BAT testing for kernel
  version: v5.5-rc5
 
