@@ -1,4 +1,4 @@
-From ab14df2c3992cb551cf564ba5a0fd7f7b09b4ae7 Mon Sep 17 00:00:00 2001
+From 1403a86c1ea8110f525c6063a2a585e233a8922c Mon Sep 17 00:00:00 2001
 From: Pankaj Bharadiya <pankaj.laxminarayan.bharadiya@intel.com>
 Date: Thu, 5 Dec 2019 09:53:41 +0530
 Subject: [PATCH 3/4] Revert "pinctrl: intel: Add Intel Tiger Lake pin
